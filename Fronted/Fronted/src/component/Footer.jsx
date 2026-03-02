@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <>
             <div
-                className="container-fluid p-2 text-center text-white cust_c2  mt-2"
+                className="container-fluid p-2 text-center text-white cust_c2 fixed-bottom"
             >
                 &copy; Copyrights by user
             </div>
